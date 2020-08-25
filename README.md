@@ -1,4 +1,4 @@
-#Simple Blog App
+# Simple Blog App
 
 Follows RESTful routing.
 
